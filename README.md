@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at and here https://my-portfolio-amber-nu.vercel.app/
 
-- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/martin-s-8002a0157), [facebook](https://www.facebook.com/nitram278) or by [mail](mailto:martin.sidorov27@gmail.com)
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/isma2023), or by [mail](mailto:ismaelnajerafuentes@gmail.com)
 
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
@@ -20,9 +20,6 @@
 <p align="center">
   <a href= "https://www.linkedin.com/in/isma2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
   <a href="https://github.com/FuentesIsma2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
-  <a href="https://instagram.com/ismael_ftes?igshid=MzNlNGNkZWQ4Mg=="><i class="fa-brands fa-instagram fa-beat-fade" style="color: #0d0d0d;"></i> Instagram</a>
-  </p>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -32,8 +29,7 @@
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react.svg" width="40" height="40"/> </a>
+  
 </p>
-dino.gif
 
 
