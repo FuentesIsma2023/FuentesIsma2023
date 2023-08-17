@@ -13,13 +13,12 @@
 
 <p align="center">
   <img src="https://github.com/Matrix278/Matrix278/raw/output/ocean.gif" alt="snake">
-   <img ![dino](https://github.com/FuentesIsma2023/FuentesIsma2023/assets/128210395/8df6fd42-c58e-4a21-810d-9338d18a0d27)>
 </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href= "https://www.linkedin.com/in/isma2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://github.com/FuentesIsma2023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100091467200677&mibextid=b06tZ0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitram278" height="30" width="40" /></a>
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
