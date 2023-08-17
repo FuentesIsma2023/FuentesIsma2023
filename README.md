@@ -2,26 +2,7 @@
 
 I am an IT passionate, who enjoys working with HTML5, CSS3
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My portfolio</title>
-    <script src="https://kit.fontawesome.com/c674610699.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="/css/footer.css">
-    <link rel="stylesheet" href="/css/general.css">
-    <link rel="stylesheet" href="/css/header.css">
-    <link rel="stylesheet" href="/css/about.css">
-    <link rel="stylesheet" href="/css/formation.css">
-    <link rel="stylesheet" href="/css/hobbies.css">
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/css/projects.css">
-    <link rel="stylesheet" href="/css/skills.css">
-    <link rel="stylesheet" href="/css/presentation.css">
-    <link rel="stylesheet" href="/css/contact.css">
-    <link rel="stylesheet" href="/css/titles.css">
-</head>
+
 <body>
   <header class="header">
         <div class="name__vector">
@@ -39,4 +20,4 @@ I am an IT passionate, who enjoys working with HTML5, CSS3
     </header>
   
 </body>
-</html>
+
