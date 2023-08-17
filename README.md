@@ -10,13 +10,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
-- 🔭 I’m currently working in **Wallester**
+- 🌱 I’m currently learning **JavaScript, React**
 
-- 🌱 I’m currently learning **Go language, PostgreSQL, AWS, Microservices**
-
-- 🤝 I’m looking for help with any sorting algorithms on any programming language in [Algorithms project](https://github.com/Matrix278/algorithms)
-
-- 👨‍💻 All of my projects are available at [https://martinsidorov.com/](https://martinsidorov.com/) and here)
+- 👨‍💻 All of my projects are available at and here https://my-portfolio-amber-nu.vercel.app/
 
 - 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/martin-s-8002a0157), [facebook](https://www.facebook.com/nitram278) or by [mail](mailto:martin.sidorov27@gmail.com)
 
