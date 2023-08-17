@@ -2,6 +2,8 @@
 
 I am an IT passionate, who enjoys working with HTML5, CSS3
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,3 +39,4 @@ I am an IT passionate, who enjoys working with HTML5, CSS3
     </header>
   
 </body>
+</html>
