@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matrix278&theme=onedark&row=2&column=3" alt="matrix278" /></a> </p> -->
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **SQL, Python and Cibersecurity**
 
 - 👨‍💻 All of my projects are available at and here https://my-portfolio-amber-nu.vercel.app/
 
