@@ -13,6 +13,8 @@ I'm a dedicated and curious tech professional who loves problem-solving. Current
 * ☁️ **Cloud Infrastructure:** Gaining hands-on experience with **Terraform** for infrastructure as code and exploring foundational cloud security principles.
 * 🧠 **Networking:** Reinforcing my foundational knowledge of network protocols and configurations to deepen my understanding of system security.
 
+![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
 ---
 
 ## My Projects
