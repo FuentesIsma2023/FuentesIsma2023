@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F724&center=true&vCenter=true&width=435&lines=From+Service+Desk+to+DevSecOps;Building+Automation+Bash+PowerShell%26+Cloud+Security+Monitoring;Always+Learning+%26+Problem-Solving" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F724&center=true&vCenter=true&width=800&lines=From+Service+Desk+to+DevSecOps;Building+Automation+with+Bash+%26+PowerShell;Cloud+Security+%26+Monitoring;Always+Learning+%26+Problem-Solving" alt="Typing SVG" />
   </a>
 </p>
-
 ---
 
 ## 👨‍💻 About Me  
