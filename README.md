@@ -5,6 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F724&center=true&vCenter=true&width=800&lines=From+Service+Desk+to+DevSecOps;Building+Automation+with+Bash+%26+PowerShell;Cloud+Security+%26+Monitoring;Always+Learning+%26+Problem-Solving" alt="Typing SVG" />
   </a>
 </p>
+<p align="center">
+  <img src="EHil.gif" alt="matrix rain" width="600"/>
+</p>
 ---
 
 ## 👨‍💻 About Me  
