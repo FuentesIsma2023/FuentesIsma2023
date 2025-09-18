@@ -12,8 +12,8 @@
 
 ## 👨‍💻 About Me  
 I’m a curious and growth-driven IT professional making the leap from **Service Desk support** into **DevSecOps and Cloud Engineering**.  
-- 🔐 Passionate about **Cloud Computing and Cloud Security **  
-- ⚡ Skilled at **Automation** and scripting for Efficiency  
+- 🔐 Passionate about **Cloud Computing and Cloud Security**
+- ⚡ Working on **Automation** and **Scripting** for Efficiency  
 - 🌍 Lifelong Learner, experimenting with new tools and technologies  
 
 ---
