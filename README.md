@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismael!</h1>
-<h3 align="center">A tech enthusiast with a background in service desk analysis, building skills in cybersecurity, SQL, and Python.</h3>
+<h3 align="center">A tech enthusiast with a background in service desk analysis, building skills in Networking, Scripting and DevSecOps</h3>
 
 ---
 
