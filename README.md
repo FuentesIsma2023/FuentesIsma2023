@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="5TMy.gif" alt="man walking" width="600"/>
+  <img src="5TMy.gif" alt="man walking" width="300"/>
 </p>
 ---
 
